@@ -1,17 +1,6 @@
 <!-- Color hex: #D5E6FE, #5FAAED, #DD4B19 -->
 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;UI/UX+Developer;Machine+Learning+Enthusiast;&center=true&width=500&height=50"></a>
-
-</p>
-
-
-<h4 align="center">I love building side projects 😍, and most of them are Open source. <br/> I'm currently looking to colaborate more on open source projects 👨‍💻</h4>
-<br>
-
-<img src="https://history-computer.com/wp-content/uploads/2022/11/shutterstock_2111828198-1536x784.jpg">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
 
@@ -93,3 +82,5 @@
  </p>
  </div>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://history-computer.com/wp-content/uploads/2022/11/shutterstock_2111828198-1536x784.jpg">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
