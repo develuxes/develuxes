@@ -82,5 +82,3 @@
  </p>
  </div>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <img src="https://history-computer.com/wp-content/uploads/2022/11/shutterstock_2111828198-1536x784.jpg">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
