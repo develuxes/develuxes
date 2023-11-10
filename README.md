@@ -84,17 +84,16 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 
-<p align="justify">
+<p align="">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
-      style="position:absolute; left:0"
+      align="left"
     />
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielObara&layout=compact&theme=radical" 
-      style="position:absolute; left:0"
-
+      align="right"
     />
 </p>
 
